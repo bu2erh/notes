@@ -46,6 +46,10 @@ brew install --cask postman
 ```
 brew install --cask maczip
 ```
+- cheatsheet（快捷键）
+```
+brew install --cask cheatsheet
+```
 -
 ```
 brew install --cask wechat
