@@ -1,10 +1,7 @@
-**安装软件
-
+## 安装软件
 Homebrew https://brew.sh/
-
-#国内源
-
-#安装 
+# 国内源
+# 安装 
 
 /bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
 
