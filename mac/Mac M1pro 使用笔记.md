@@ -46,7 +46,7 @@ brew install --cask postman
 ```
 brew install --cask maczip
 ```
-snipaste(截图)
+- snipaste(截图)
 ```
 brew install --cask snipaste
 ```
