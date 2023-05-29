@@ -12,13 +12,17 @@ https://gitee.com/cunkai/HomebrewCN
 ```
 ## 软件
 - 谷歌/edge
- ```
+```
 brew install --cask google-chrome  
+```
+```
 brew install --cask microsoft-edge
 ```
 - nvm    
- ```
+```
 brew install nvm   
+```
+```
 nvm install 16
 npm install nrm -g
 ```
@@ -42,12 +46,21 @@ brew install --cask postman
 ```
 brew install --cask maczip
 ```
+-
 ```
 brew install --cask wechat
+```
+```
 brew install --cask qq
-brew install --cask youdaodict   网易有道词典
-brew install --cask mailmaster   网易邮箱大师
-brew install --cask neteasemusic 网易云音乐
+```
+```
+brew install --cask youdaodict    网易有道词典
+```
+```
+brew install --cask mailmaster    网易邮箱大师
+```
+```
+brew install --cask neteasemusic  网易云音乐
 ```
 ## 安装问题
 - nvm
