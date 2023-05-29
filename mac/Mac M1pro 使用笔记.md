@@ -1,8 +1,13 @@
 **安装软件
+
 Homebrew https://brew.sh/
+
 #国内源
+
 #安装 
+
 /bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+
 卸载
 /bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/HomebrewUninstall.sh)"
 软件
