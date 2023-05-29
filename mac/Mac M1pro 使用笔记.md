@@ -46,6 +46,10 @@ brew install --cask postman
 ```
 brew install --cask maczip
 ```
+snipaste(截图)
+```
+brew install --cask snipaste
+```
 - cheatsheet（快捷键）
 ```
 brew install --cask cheatsheet
