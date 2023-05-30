@@ -54,6 +54,10 @@ brew install --cask snipaste
 ```
 brew install --cask cheatsheet
 ```
+- 欧路词典
+```
+brew install --cask eudic
+```
 - 睡眠不断网
 ```
 brew install --cask nosleep
