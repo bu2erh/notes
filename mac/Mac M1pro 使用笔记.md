@@ -54,6 +54,10 @@ brew install --cask snipaste
 ```
 brew install --cask cheatsheet
 ```
+- 睡眠不断网
+```
+brew install --cask nosleep
+```
 -
 ```
 brew install --cask wechat
