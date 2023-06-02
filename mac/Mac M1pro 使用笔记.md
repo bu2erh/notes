@@ -30,7 +30,13 @@ git remote set-url origin https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/brew
 git remote set-url origin https://mirrors.ustc.edu.cn/brew.git
 ```
 
-4. 然后更新 Homebrew，输入以下命令：
+4. 或者添加阿里源，输入以下命令：
+
+```
+git remote set-url origin https://mirrors.aliyun.com/homebrew/brew.git
+```
+
+5. 然后更新 Homebrew，输入以下命令：
 
 ```
 brew update
