@@ -10,6 +10,39 @@ https://gitee.com/cunkai/HomebrewCN
 ```
 /bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/HomebrewUninstall.sh)"
 ```
+苹果 M1 Pro 电脑上使用 Homebrew 的过程中，可以选择使用国内的源，比如清华源或中科大源。以下是切换过程：
+
+1. 首先打开终端，进入 Homebrew 目录，输入以下命令：
+
+```
+cd "$(brew --repo)"
+```
+
+2. 接着添加清华源，输入以下命令：
+
+```
+git remote set-url origin https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/brew.git
+```
+
+3. 或者添加中科大源，输入以下命令：
+
+```
+git remote set-url origin https://mirrors.ustc.edu.cn/brew.git
+```
+
+4. 然后更新 Homebrew，输入以下命令：
+
+```
+brew update
+```
+
+5. 最后可以测试一下，输入以下命令，查看是否已经切换成功：
+
+```
+brew doctor
+```
+
+如果显示的信息中有清华或中科大的字样，就说明已经切换成功了。
 ## 软件
 - 谷歌/edge
 ```
