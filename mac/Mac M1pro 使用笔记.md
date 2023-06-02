@@ -62,6 +62,10 @@ brew install --cask eudic
 ```
 brew install --cask nosleep
 ```
+- 向日葵
+```
+brew install --cask sunloginclient
+```
 -
 ```
 brew install --cask wechat
@@ -70,13 +74,13 @@ brew install --cask wechat
 brew install --cask qq
 ```
 ```
-brew install --cask youdaodict    网易有道词典
+brew install --cask youdaodict
 ```
 ```
-brew install --cask mailmaster    网易邮箱大师
+brew install --cask mailmaster
 ```
 ```
-brew install --cask neteasemusic  网易云音乐
+brew install --cask neteasemusic
 ```
 ## 安装问题
 - nvm
