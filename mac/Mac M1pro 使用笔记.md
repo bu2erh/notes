@@ -55,8 +55,8 @@ brew install nvm
 ```
 ```
 nvm install 16
-npm install nrm -g
 ```
+brew install nrm
 ```
 brew install pnpm
 ```
