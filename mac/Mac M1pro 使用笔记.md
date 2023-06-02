@@ -44,14 +44,12 @@ brew doctor
 
 如果显示的信息中有清华或中科大的字样，就说明已经切换成功了。
 ## 软件
-- 谷歌/edge
 ```
 brew install --cask google-chrome  
 ```
 ```
 brew install --cask microsoft-edge
 ```
-- nvm    
 ```
 brew install nvm   
 ```
@@ -59,47 +57,36 @@ brew install nvm
 nvm install 16
 npm install nrm -g
 ```
-- pnpm
 ```
 brew install pnpm
 ```
-- vscode
 ```
 brew install --cask visual-studio-code
 ```
-- 微信开发者工具
 ```
 brew install --cask wechatwebdevtools
 ```
-- postman
 ```
 brew install --cask postman
 ```
-- MacZip
 ```
 brew install --cask maczip
 ```
-- snipaste(截图)
 ```
 brew install --cask snipaste
 ```
-- cheatsheet（快捷键）
 ```
 brew install --cask cheatsheet
 ```
-- 欧路词典
 ```
 brew install --cask eudic
 ```
-- 睡眠不断网
 ```
 brew install --cask nosleep
 ```
-- 向日葵
 ```
 brew install --cask sunloginclient
 ```
--
 ```
 brew install --cask wechat
 ```
