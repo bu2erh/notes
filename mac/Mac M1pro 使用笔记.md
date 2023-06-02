@@ -56,7 +56,9 @@ brew install nvm
 ```
 nvm install 16
 ```
+```
 brew install nrm
+```
 ```
 brew install pnpm
 ```
